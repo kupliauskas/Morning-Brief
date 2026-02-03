@@ -5,7 +5,7 @@
 <link>https://kupliauskas.github.io/Morning-Brief</link>
 <description>Private daily briefing</description>
 <language>en-gb</language>
-<lastBuildDate>Mon, 02 Feb 2026 05:21:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Feb 2026 05:12:37 +0000</lastBuildDate>
 <itunes:explicit>false</itunes:explicit>
 <itunes:owner><itunes:name>Adolfas</itunes:name><itunes:email>kupliauskas@gmail.com</itunes:email></itunes:owner>
 <item>
@@ -1099,6 +1099,13 @@
 <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="false">75d9779a7e8363e727c09ee7455d4b0ca8378e1a</guid>
 <enclosure url="https://kupliauskas.github.io/Morning-Brief/episodes/2026-02-02-morning-brief.mp3" length="0" type="audio/mpeg"/>
+</item>
+<item>
+<title>Morning Brief — 2026-02-03</title>
+<description>Morning Brief — 2026-02-03</description>
+<pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">f215fa9939d3880cebf02a6bc09db01039ce88b4</guid>
+<enclosure url="https://kupliauskas.github.io/Morning-Brief/episodes/2026-02-03-morning-brief.mp3" length="0" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
